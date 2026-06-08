@@ -1,3 +1,4 @@
+<img width="1789" height="854" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/b22487b9-862a-482f-ac05-26e88c4db766" />
 # Spam Detection & Email Summarizer
 
 # Project Overview
@@ -108,17 +109,13 @@ streamlit run app.py
 
 # Spam Detection
 
-(Add spam detection screenshot here)
+<img width="1789" height="854" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/d4a5db2b-e975-4a32-85f1-bbea445ffe0d" />
 
 # Legitimate Message Detection
 
-(Add legitimate message screenshot here)
+<img width="1878" height="916" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/d50ef572-32e5-400e-8dfa-5ff2bcb551e9" />
 
 # AI Generated Summary
-
-(Add summary screenshot here)
-
----
 
 # Future Improvements
 
